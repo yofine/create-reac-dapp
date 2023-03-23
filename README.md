@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![](https://cdn.midjourney.com/34660301-fa0e-4720-b2cc-2ade019387c2/grid_0.png)
+
 This project is a boilerplate for developing decentralized applications (DApps) with a React frontend. It provides a set of basic components and functions that can be used to quickly build and deploy a DApp frontend with the following tech stack:
 
 - React
